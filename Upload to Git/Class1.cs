@@ -8,5 +8,7 @@ namespace Upload_to_Git
 {
     class Class1
     {
+        string word { get; set; }
+        int number { get; set; }
     }
 }
